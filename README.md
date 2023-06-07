@@ -1,0 +1,1 @@
+# Yozda-birga-kod-yozamiz
