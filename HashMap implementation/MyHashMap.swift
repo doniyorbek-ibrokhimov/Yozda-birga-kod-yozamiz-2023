@@ -1,3 +1,5 @@
+import Foundation
+
 class MyHashMap {
     private var buckets: [[(Int, Int)]]
     private let capacity: Int
