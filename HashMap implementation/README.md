@@ -1,4 +1,4 @@
-# MyHashMap Class
+# MyHashMap
 
 The `MyHashMap` class is a custom implementation of a hashmap data structure in Swift. It provides basic functionality to store key-value pairs and perform operations like insertion, retrieval, and removal.
 
